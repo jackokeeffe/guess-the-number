@@ -18,4 +18,3 @@ This is obviously a very simple project but if you feel like a change should be 
 
 ## Author
 - Jack O'Keeffe - https://github.com/jackokeeffe
-
